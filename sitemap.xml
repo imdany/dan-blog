@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>https://blog.imdany.io/posts/spark-intro-geospatial-analytics/</loc>
+<lastmod>2021-01-23T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>https://blog.imdany.io/archives/</loc>
+<lastmod>2021-08-10T16:32:40+01:00</lastmod>
+</url>
+<url>
+<loc>https://blog.imdany.io/about/</loc>
+<lastmod>2021-08-10T16:32:40+01:00</lastmod>
+</url>
+<url>
+<loc>https://blog.imdany.io/</loc>
+</url>
+<url>
+<loc>https://blog.imdany.io/tags/spark/</loc>
+</url>
+<url>
+<loc>https://blog.imdany.io/tags/analytics/</loc>
+</url>
+<url>
+<loc>https://blog.imdany.io/categories/spark/</loc>
+</url>
+<url>
+<loc>https://blog.imdany.io/categories/data-engineer/</loc>
+</url>
+<url>
+<loc>https://blog.imdany.io/categories/geospatial/</loc>
+</url>
+</urlset>
