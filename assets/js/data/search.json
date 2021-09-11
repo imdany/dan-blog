@@ -1,6 +1,21 @@
 [
   
   {
+    "title": "Why you should start writing Spark Custom Native Functions",
+    "url": "/posts/spark-should-use-catalyst-expressions/",
+    "categories": "Spark, Data Engineer",
+    "tags": "Spark, Performance",
+    "date": "2021-08-04 01:00:00 +0100",
+    
+
+
+
+
+
+    "snippet": "Article originally published at Medium.One of the first things that people try when they need to do something that doesn’t come out of the box in Spark is to write a UDF, a User Defined Function, that allows them to achieve that functionality they’re looking for, but is that the best way of doing..."
+  },
+  
+  {
     "title": "An Introduction to Geospatial Processing with Spark",
     "url": "/posts/spark-intro-geospatial-analytics/",
     "categories": "Spark, Data Engineer, Geospatial",

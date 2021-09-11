@@ -4,7 +4,7 @@
   <id>https://blog.imdany.io/</id>
   <title>Dan's Blog</title>
   <subtitle>A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.</subtitle>
-  <updated>2021-08-10T16:32:40+01:00</updated>
+  <updated>2021-09-11T20:13:15+01:00</updated>
   <author>
     <name>Dan</name>
     <uri>https://blog.imdany.io/</uri>
@@ -17,6 +17,50 @@
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
+
+  
+  <entry>
+    <title>Why you should start writing Spark Custom Native Functions</title>
+    <link href="https://blog.imdany.io/posts/spark-should-use-catalyst-expressions/" rel="alternate" type="text/html" title="Why you should start writing Spark Custom Native Functions" />
+    <published>2021-08-04T01:00:00+01:00</published>
+  
+    <updated>2021-08-04T01:00:00+01:00</updated>
+  
+    <id>https://blog.imdany.io/posts/spark-should-use-catalyst-expressions/</id>
+    <content src="https://blog.imdany.io/posts/spark-should-use-catalyst-expressions/" />
+    <author>
+      <name>Daniel González Pérez</name>
+    </author>
+
+  
+    
+    <category term="Spark" />
+    
+    <category term="Data Engineer" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      
+
+Article originally published at Medium.
+
+
+
+One of the first things that people try when they need to do something that doesn’t come out of the box in Spark is to write a UDF, a User Defined Function, that allows them to achieve that functionality they’re looking for, but is that the best way of doing it? What are the performance implications of writing a UDF?
+
+This post will be looking at imp...
+    </summary>
+  
+
+  </entry>
 
   
   <entry>
